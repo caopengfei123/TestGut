@@ -2,6 +2,6 @@ package Test;
 //²âÊÔÏîÄ¿
 public class TestGit {
 	public static void main(String[] args) {
-		System.out.println("git²âÊÔ£¡£¡£¡");
+		System.out.println("gitceshi£¡£¡£¡");
 	}
 }
